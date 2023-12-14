@@ -18,20 +18,20 @@ Funções.centralidade(grafo_diff)
 
 # Número de nós
 num_nodes = len(G.nodes)
-print(f"Número de nós: {num_nodes}")
+print(f"Número de nós em Pipa: {num_nodes}")
 
 # Número de arestas
 num_edges = len(G.edges)
-print(f"Número de arestas: {num_edges}")
+print(f"Número de ruas em Pipa: {num_edges}")
 
 # Densidade da rede
 density = nx.density(G)
-print(f"Densidade da rede: {density}")
+print(f"Densidade da rede de estradas de Pipa: {density}")
 
 # Comprimento total das arestas
 
 total_edge_length = sum(nx.get_edge_attributes(G, "length").values())
-print(f"Comprimento total das arestas: {total_edge_length} metros")
+print(f"Comprimento total das ruas em Pipa: {total_edge_length} metros")
 
 # Desenhando o grafo
 
