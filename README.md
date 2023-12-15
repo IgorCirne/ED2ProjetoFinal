@@ -2,8 +2,11 @@
 
 
 Discentes:
+
 Arthur Felipe Rodrigues Costa
+
 Carlos Antonio Miranda Filho
+
 Igor Cirne Borges de Oliveira
 
 Este projeto tem como propósito analisar o perfil de duas diferentes cidades e comparar suas estruturas, mais especificamente suas estradas e áreas voltadas para ciclovia. Para isso, vamos extrair informações das redes através de informações do OpenStreetMap.
