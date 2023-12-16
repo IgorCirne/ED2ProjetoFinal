@@ -1,9 +1,15 @@
-# Análise das redes de ciclovias e estradas
+# EDII - Projeto Final [3ª Unidade]
 
 
+Discentes:
 
-No que diz respeito à Cidade de Gramado, vemos uma diferença notável quanto à quantidade de estradas para bicicletas, sendo notavelmente mais numerosas do que em tibau do sul, mesmo ambas possuindo pontos turísticos internacionais. Um fator importante para essa distinção é também o tamanho das cidades, Tibau do Sul é perceptivelmente menor do que Gramado, o que leva às estradas destinadas a bicicletas serem menos desenvolvidas.
+Arthur Felipe Rodrigues Costa
 
-Ainda observando a região municipal de Gramado, vemos uma distinção entre a cidade própria e as regiões vizinhas, há uma região dentro do municipio que é perceptivelmente mais urbana do que outra, as representações das redes de bicicleta e estradas mostram isso com clareza. E isso nos leva a observar um fenômeno: Mesmo com uma quantidade razoável de ruas dedicadas somente à bicicletas, dentro da cidade própria, a locomoção exclusiva para meios cíclicos é quase completamente compartilhada com meios rodoviários.
+Carlos Antonio Miranda Filho
 
-Devido a Gramado ser uma cidade completamente turística, é possível que isso seja possível, porém, em 2012, gramado recebeu um projeto chamado Gramado de Bicicletas, que tem como objetivo "O compartilhamento na mesma via de rolamento entre ciclistas e veículos a motor". Mesmo com um projeto colocando em evidência necessidades de ciclistas, visualizar a diferença entre ciclovias e rodovias nos mostra que a mobilidade na cidade somente para bicicletas é no mínimo, limitada.
+Igor Cirne Borges de Oliveira
+
+Este projeto tem como propósito analisar o perfil de duas diferentes cidades e comparar suas estruturas, mais especificamente suas estradas e áreas voltadas para ciclovia. Para isso, vamos extrair informações das redes através de informações do OpenStreetMap.
+
+
+Inicialmente vamos usar Pipa, no estado do Rio Grande do Norte, como referência para pegarmos essas informações através do número de nós e arestas, densidade, comprimento total das ruas e medidas de centralidades. A partir daí, vamos comparar algumas dessas referências no momento em que alteramos a rede para ciclovias e refletirmos sobre mobilidade e planejamento urbano da cidade. Após Pipa, vamos usar a cidade de Gramado, no Rio Grande do Sul, para extrairmos os mesmos dados e fazer comparações com Pipa e gerar possíveis soluções sobre mobilidade urbana e planejamento de cidades mais acessíveis para ciclistas. Para ambas, serão usadas bibliotecas do OpenStreetMap (osmnx) e NetworkX (networkx) via linguagem Python para obtermos os dados geográficos e das redes de ambas as cidades. Outra cidade a ser comparada com Pipa será Florianópolis, no estado de Santa Catarina.
