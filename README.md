@@ -27,10 +27,19 @@ Para analisarmos, foram obtidos os grafos da centralidade intermediadora (betwen
 TOMAZELI, Tela. Metas do Gramado de Bicicleta. *Gramado de Bicicleta*, 2016. Disponível em: [Gramado de Bicicleta](http://gramadodebicicleta.blogspot.com). Acesso em: 15. dez. 2023.
 
 
-ALIANÇA BIKE – Ciclovias e ciclofaixas avançam 4% em 1 ano e capitais brasileiras atingem 4.365 km. Disponível em: [Ciclovias e ciclofaixas avançam 4% em 1 ano e capitais brasileiras atingem 4.365 km](https://aliancabike.org.br/cicloviasnascapitais23/). Acesso em: 15 dez. 2023.
+ALIANÇA BIKE. **Ciclovias e ciclofaixas avançam 4% em 1 ano e capitais brasileiras atingem 4.365 km**. Disponível em: [Ciclovias e ciclofaixas avançam 4% em 1 ano e capitais brasileiras atingem 4.365 km](https://aliancabike.org.br/cicloviasnascapitais23/). Acesso em: 15 dez. 2023.
 
 
-COSCIA, M. The Atlas for the Aspiring Network Scientist. IT – University of Copenhagen. 2021.
+COSCIA, M. **The Atlas for the Aspiring Network Scientist**. IT – University of Copenhagen. 2021.
+
+
+SOUZA, E. Mobilidade Estadão.**Florianópolis amplia 21% da malha cicloviária no primeiro semestre de 2023**. Disponível em: [Florianópolis amplia 21% da malha cicloviária no primeiro semestre de 2023](https://mobilidade.estadao.com.br/meios-de-transporte/bicicleta/florianopolis-amplia-21-da-malha-cicloviaria-no-primeiro-semestre-de-2023/). Acesso em: 16. dez. 2023.
+
+
+Observatório da Bicicleta. **Florianópolis lidera ranking de ciclovias e ciclofaixas por habitante [dentre as capitais]**. Disponível em: [Florianópolis lidera ranking de ciclovias e ciclofaixas por habitante (dentre as capitais)](https://observatoriodabicicleta.org.br/florianopolis-lidera-ranking-de-ciclovias-e-ciclofaixas-por-habitante-dentre-as-capitais/). Acesso em: 16. dez. 2023.
+
+
+Prefeitura de Florianópolis. **Florianópolis é a segunda Capital com mais ciclovias e ciclofaixas por habitante, segundo pesquisa da Aliança Bike**. Disponível em: [Florianópolis é a segunda Capital com mais ciclovias e ciclofaixas por habitante, segundo pesquisa da Aliança Bike](https://www.pmf.sc.gov.br/noticias/index.php?pagina=notpagina&noti=24739). Acesso em: 16. dez. 2023.
 
 
 
