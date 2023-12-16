@@ -19,4 +19,4 @@ Inicialmente vamos usar Pipa, no estado do Rio Grande do Norte, como referência
 **Referências:**
 
 
-TOMAZELI, Tela. Metas do Gramado de Bicicleta *Gramado de Bicicleta*, 2016. Disponível em: [Gramado de Bicicleta](http://gramadodebicicleta.blogspot.com). Acesso em: 15. dez. 2023.
+TOMAZELI, Tela. Metas do Gramado de Bicicleta. *Gramado de Bicicleta*, 2016. Disponível em: [Gramado de Bicicleta](http://gramadodebicicleta.blogspot.com). Acesso em: 15. dez. 2023.
