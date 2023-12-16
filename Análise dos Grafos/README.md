@@ -2,7 +2,7 @@
 
 
 
-No que diz respeito à Cidade de Gramado, vemos uma diferença notável quanto à quantidade de estradas para bicicletas, sendo notavelmente mais numerosas do que em tibau do sul, mesmo ambas possuindo pontos turísticos internacionais. Um fator importante para essa distinção é também o tamanho das cidades, Tibau do Sul é perceptivelmente menor do que Gramado, o que leva às estradas destinadas a bicicletas serem menos desenvolvidas.
+No que diz respeito à Cidade de Gramado, vemos uma diferença notável quanto à quantidade de estradas para bicicletas, sendo notavelmente mais numerosas do que em Tibau do Sul, mesmo ambas possuindo pontos turísticos internacionais. Um fator importante para essa distinção é também o tamanho das cidades, Tibau do Sul é perceptivelmente menor do que Gramado, o que leva às estradas destinadas a bicicletas serem menos desenvolvidas.
 
 Ainda observando a região municipal de Gramado, vemos uma distinção entre a cidade própria e as regiões vizinhas, há uma região dentro do municipio que é perceptivelmente mais urbana do que outra, as representações das redes de bicicleta e estradas mostram isso com clareza. E isso nos leva a observar um fenômeno: Mesmo com uma quantidade razoável de ruas dedicadas somente à bicicletas, dentro da cidade própria, a locomoção exclusiva para meios cíclicos é quase completamente compartilhada com meios rodoviários.
 
