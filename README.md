@@ -20,8 +20,8 @@ O motivo pelo qual Tibau do Sul foi a cidade a ser focada foi que, por ser uma c
 
 Para analisarmos, foram obtidos os grafos da centralidade intermediadora (betwenness centrality) tanto para as áreas de rodovia quanto de ciclovia. Este tipo de centralidade é importante para obtermos o fluxo de informação da rede, pegando um nó e calculando os caminhos mais curtos de outros nós da rede. Em uma cidade, esse tipo de grafo serve para pegarmos “pontes” importantes que ligam um ponto a outro numa cidade, não sendo possível fazer o trajeto em alguma localidade sem passar por elas. Na parte de Tibau do Sul, a parte crítica dessa centralidade encontra-se na cor amarela e ela se liga à Praia de Pipa. Dentro de Pipa, por sua vez, existem mais áreas dessa centralidade, o que indica a existência de caminhos que servem de ligações de um ponto a outro, sem eles o acesso a certas localidades não seria possível.
 
-**Link do vídeo:** [Projeto 2 - Small Worlds(Youtube)](https://youtu.be/WUe07l_UmYc)
-**Link do Alternativo:** [Projeto 2 - Small Worlds(Google Drive)](https://drive.google.com/file/d/1xKAq9sb3onKrWWH4IIlR_8a3sQUq5Rou/view?usp=drive_link)
+**Link do vídeo:** [Projeto Final - Análise de estruturas cicloviárias(Youtube)](https://youtu.be/WUe07l_UmYc)
+**Link do Alternativo:** [Projeto Final - Análise de estruturas cicloviárias(Google Drive)](https://drive.google.com/file/d/1xKAq9sb3onKrWWH4IIlR_8a3sQUq5Rou/view?usp=drive_link)
 
 
 **Referências:**
